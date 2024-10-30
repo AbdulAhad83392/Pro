@@ -1,0 +1,252 @@
+
+  .part1{
+    background-image: url(https://preview.redd.it/trees-mountains-yellow-japanese-painting-ai-generated-v0-o33cm0apyyeb1.jpg?width=640&crop=smart&auto=webp&s=adea5f182ec1d560f75536d8a6f6efc25969bcac);
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.row1{
+    display: flex;
+    flex-wrap: wrap;
+}
+body{
+    margin: 0px;
+}
+.h51{
+  height: auto;
+}
+.ahad{
+    background-image: url(https://scontent.fkhi11-1.fna.fbcdn.net/v/t39.30808-6/465012687_537696312337014_5022818428647530534_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFwG0erlR-S_8cjUPnLJSjvSkVU_s2ln0dKRVT-zaWfR4GPnIbmdwN0Pq6t2Cs9YSC0eg3UskxnoV7LPPbqKN75&_nc_ohc=7KOVYp7pJfQQ7kNvgFwfUTw&_nc_zt=23&_nc_ht=scontent.fkhi11-1.fna&_nc_gid=Axm5qNzuNYzE6NSX5HQ9HBz&oh=00_AYAJNOXhr0wvpOvH3MqLpLbGDg5qITqbDZVpIcdrhol9gw&oe=6728621A);
+    height: 80vh;
+    border-radius: 2rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}/* HTML: <div class="loader"></div> */
+.loader {
+  width: fit-content;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 30px;
+  background:linear-gradient(90deg,#000 50%,#0000 0) right/200% 100%;
+  animation: l21 2s infinite linear;
+}
+.loader::before {
+  content :"Abdul-Ahad...";
+  color: #0000;
+  padding: 0 5px;
+  background: inherit;
+  background-image: linear-gradient(90deg,#fff 50%,#000 0);
+  -webkit-background-clip:text;
+          background-clip:text;
+}
+
+@keyframes l21{
+  100%{background-position: left}
+}
+  .carousel-item{
+    height: 80vh;
+  }
+  .h51{
+    color: black;
+  }
+.loader2 {
+    width: 40px;
+    aspect-ratio: 1;
+    --c: linear-gradient(#000 0 0);
+    --r1: radial-gradient(farthest-side at bottom,#000 93%,#0000);
+    --r2: radial-gradient(farthest-side at top   ,#000 93%,#0000);
+    background: 
+      var(--c) ,var(--r1),var(--r2),
+      var(--c) ,var(--r1),var(--r2),
+      var(--c) ,var(--r1),var(--r2);
+    background-repeat: no-repeat;
+    animation: l2 1s infinite alternate;
+  }
+  @keyframes l2 {
+    0%,25% {
+      background-size: 8px 0,8px 4px,8px 4px,8px 0,8px 4px,8px 4px,8px 0,8px 4px,8px 4px;
+      background-position: 0 50%,0 calc(50% - 2px),0 calc(50% + 2px),50% 50%,50% calc(50% - 2px),50% calc(50% + 2px),100% 50%,100% calc(50% - 2px),100% calc(50% + 2px);
+   }
+   50% {
+      background-size: 8px 100%,8px 4px,8px 4px,8px 0,8px 4px,8px 4px,8px 0,8px 4px,8px 4px;
+      background-position: 0 50%,0 calc(0% - 2px),0 calc(100% + 2px),50% 50%,50% calc(50% - 2px),50% calc(50% + 2px),100% 50%,100% calc(50% - 2px),100% calc(50% + 2px);
+   }
+   75% {
+      background-size: 8px 100%,8px 4px,8px 4px,8px 100%,8px 4px,8px 4px,8px 0,8px 4px,8px 4px;
+      background-position: 0 50%,0 calc(0% - 2px),0 calc(100% + 2px),50% 50%,50% calc(0% - 2px),50% calc(100% + 2px),100% 50%,100% calc(50% - 2px),100% calc(50% + 2px);
+   }
+   95%,100% {
+      background-size: 8px 100%,8px 4px, 8px 4px,8px 100%,8px 4px,8px 4px,8px 100%,8px 4px,8px 4px;
+      background-position: 0 50%,0 calc(0% - 2px),0 calc(100% + 2px),50% 50%,50% calc(0% - 2px),50% calc(100% + 2px),100% 50%,100% calc(0% - 2px),100% calc(100% + 2px);
+   }
+  }
+  .skill1{
+    width: 20%;
+    height: 40vh;
+background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210826/pngtree-yellow-and-blue-simple-art-background-image_770060.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 2rem;
+  }
+  .skillrow{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .call{
+    background-image: url(https://t3.ftcdn.net/jpg/08/27/62/26/360_F_827622654_RTDWvwHI5tup59aNM6CquwVvZp9QcgZz.jpg);
+    width: 100%;
+    height: 60vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+  }
+  .btncall{
+    width: 17%;
+    height: 3rem;
+    margin-left: 30%;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 10px black;
+    background-color: rgba(255,255,255,0.5);
+  }
+  .boxe{
+    width: 20%;
+    height: 30vh;
+    border: 1px solid black;
+    background-image: url(https://media.istockphoto.com/id/973415530/photo/random-water-drops-on-flat-yellow-surface-after-rain.jpg?s=612x612&w=0&k=20&c=2riET5jEnBfv5bew1uwnwE9E2U4FKBGf1hl2whmFZDo=);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all 1s ease-in-out;
+
+  }
+  .boxe:hover{
+    transition: all 1s ease-in-out;
+    box-shadow: 10px 10px 10px black;
+
+  }
+  .boxrow{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .port{
+    height: auto;
+    width: 100%;
+    border: none;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 2rem;
+  }
+  .p{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  .a:hover{
+    
+    box-shadow: 10px 10px 10px rgb(111, 103, 103);
+    background-image: url(https://i0.wp.com/picjumbo.com/wp-content/uploads/funny-isolated-eyes-in-emoji-style-on-yellow-background-free-photo.jpg?w=2210&quality=70);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+  .a{
+    height: 30vh;
+    width: 30%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 2rem;
+    box-shadow: 10px 10px 10px black;
+    transition: all 1s ease-in-out;
+    margin-top: 1rem;
+
+  }
+  .aa{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .a1{
+    background-image: url(https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2ViJTIwZGVzaWdufGVufDB8fDB8fHww);    background-size: cover;
+
+  }
+  .a2{
+    background-image: url(https://media.istockphoto.com/id/1371339413/photo/co-working-team-meeting-concept-businessman-using-smart-phone-and-digital-tablet-and-laptop.jpg?s=612x612&w=0&k=20&c=ysEsVw3q2axYt3oVZAuQjtHRlN3lY-U_e0ikK5yKIXQ=);    background-size: cover;
+
+  }
+  .a3{
+    background-image: url(https://t3.ftcdn.net/jpg/03/54/17/86/360_F_354178616_uSdqA6i1A1vkkskFPKOoxQOED0ZMIcn3.jpg);    background-size: cover;
+
+  }
+  .a4{
+    background-image: url(https://designsvalley.com/wp-content/uploads/2023/10/what-is-web-design.png);    background-size: cover;
+
+  }
+  .a5{
+    background-image: url(https://www.theedigital.com/wp-content/uploads/2020/07/Latest-Web-Design-Trends-and-Standards.jpg);    background-size: cover;
+
+  }
+  .a6{
+    background-image: url(https://t4.ftcdn.net/jpg/02/60/51/63/360_F_260516386_qKSZGbpEOJYUeXIYBYGbYYbsiWIpI6Uz.jpg);    background-size: cover;
+
+  }
+  .a7{
+    background-image: url(https://res.cloudinary.com/doehxaypl/image/upload/v1661878685/ge-sid-genysys-engine/elcxbxtij2aevuzdsvsr.jpg);    background-size: cover;
+
+  }
+  .a8{
+    background-image: url(https://ezranking.s3.eu-west-2.amazonaws.com/ezrankings/blog/wp-content/uploads/2019/11/07123230/Future-of-Website-Design.jpg
+    );    background-size: cover;
+
+  }
+  .a9{
+    background-image: url(https://images.ctfassets.net/wowgx05xsdrr/3TuTq2xQWcJsRBRkHbQSV4/56ed7aeff3e6312f6bcaec268bb7fb44/2019-August-Content-Blog-Headers-Batch-1-CBD-Marketing-4858-MT-v2-_1x.jpg?fm=webp&w=3840&q=75);
+    background-size: cover;
+  }
+
+  iframe{
+    border-radius: 3rem;
+    transition: all 1s ease-in-out;
+    width: 100%;
+  }
+
+.in{
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis: 51%;
+  background-image:url(https://i0.wp.com/picjumbo.com/wp-content/uploads/funny-isolated-eyes-in-emoji-style-on-yellow-background-free-photo.jpg?w=2210&quality=70) ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.inp{
+  width: 100%;
+  height: 2rem;
+}
+.inpu{
+  width: 100%;
+  height: 2rem;
+}
